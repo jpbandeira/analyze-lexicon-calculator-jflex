@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jflex-scanner" />
+        <module name="analyze-lexicon-calculator-jflex" />
       </profile>
     </annotationProcessing>
   </component>
